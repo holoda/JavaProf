@@ -1,3 +1,3 @@
 rootProject.name = 'OTUS-Homeworks'
-include 'hw01_gradle'
+include 'hw02_containers'
 
